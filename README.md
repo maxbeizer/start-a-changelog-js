@@ -1,5 +1,7 @@
 # Start a Changelog JS
 
+**NOTE: it looks like there's a more full-featured version of this concept at https://www.npmjs.com/package/keep-a-changelog**
+
 An npx-able way to get a copy of the changelog from https://keepachangelog.com .
 It's especially helpful when starting up a new project and you don't want to
 leave your CLI.

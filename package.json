@@ -1,6 +1,6 @@
 {
   "name": "start-a-changelog",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tool to generate a starter changelog file",
   "main": "./start-a-changelog.js",
   "directories": {
