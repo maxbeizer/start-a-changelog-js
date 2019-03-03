@@ -1,0 +1,32 @@
+{
+  "name": "start-a-changelog",
+  "version": "0.1.0",
+  "description": "A tool to generate a starter changelog file",
+  "main": "./start-a-changelog.js",
+  "directories": {
+    "lib": ".",
+    "bin": "./bin"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxbeizer/start-a-changelog-js.git"
+  },
+  "keywords": [
+    "changelog",
+    "generator",
+    "cli"
+  ],
+  "preferGlobal": true,
+  "bin": {
+    "start-a-changelog": "./bin/cli.js"
+  },
+  "author": {
+    "name": "Max Beizer",
+    "email": "max.beizer@gmail.com"
+  },
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "1.16.4"
+  }
+}
